@@ -1,0 +1,7 @@
+ INTRODUÇÃO AO GIT E GITHUB
+
+*GIT =sistema open-source de controle de versão utilizado pela grande maioria dos desenvolvedores atualmente. Com ele podemos criar todo histórico de alterações no código do nosso projeto e facilmente voltar para qualquer ponto para saber como o código estava naquela data.
+*GITHUB =serviço online de hospedagem de repositórios Git (como são chamados os projetos que utilizam Git). Com ele podemos manter todos nossos commits e ramos sincronizados entre os membros do time.
+
+*Utilizaremos o GITBASH!
+
